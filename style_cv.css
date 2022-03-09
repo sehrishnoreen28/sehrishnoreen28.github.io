@@ -27,7 +27,7 @@ hr
 
 .header-name
 {	 float: right;
-  	width: 33.33%;
+  	width: 500px;
   	 text-align: left; 
   	 font-size: 30px; 	 
 }
@@ -42,7 +42,7 @@ hr
 .header-image
 {
 	 float: left;
-  	 width: 33.33%;;
+  	 width: 500px;
   	 text-align: left;
      
 }
